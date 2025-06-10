@@ -2,7 +2,7 @@
 
 **Desenvolvedor**
 
-Me chamo Arthur Henrique Garcia Orcy, tenho 24 anos e sou natural de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia, lógica e aprendizado constante. Registro minha rotina de estudos e projetos no meu canal  "[Arth's Routine](https://www.youtube.com/@Arthsroutine)" enquanto me preparo para conquistar minha primeira oportunidade profissional na área.
+Me chamo Arthur Henrique Garcia Orcy, tenho 24 anos e sou natural de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia, lógica e aprendizado constante. Registro minha rotina de estudos e projetos no meu canal  "[Arth's Routine](https://www.youtube.com/@Arthsroutine)", enquanto me preparo para conquistar minha primeira oportunidade profissional na área.
 
 <p align="left">
   <a href="https://www.youtube.com/@Arthsroutine?sub_confirmation=1">
