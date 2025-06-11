@@ -4,43 +4,6 @@
 
 Me chamo Arthur Henrique Garcia Orcy, tenho 24 anos e sou natural de São Paulo. Atualmente, curso Análise e Desenvolvimento de Sistemas, sou apaixonado por tecnologia, lógica e aprendizado constante. Registro minha rotina de estudos e projetos no canal  "[Arth's Routine](https://www.youtube.com/@Arthsroutine)", enquanto me preparo para conquistar minha primeira oportunidade profissional na área.
 
-<p align="left">
-  <a href="https://www.youtube.com/@Arthsroutine?sub_confirmation=1">
-  <img
-    alt="Inscreva-se"
-    title="Inscreva-se no meu canal"
-    src="https://custom-icon-badges.demolab.com/badge/Inscreva--se-CE4630?style=for-the-badge&logo=video&logoColor=white&labelColor=CE4630"
-  />
-</a>
-
-<a href="https://www.linkedin.com/in/arthurorcy" target="_blank">
-    <img 
-      alt="LinkedIn" 
-      title="Conecte-se comigo no LinkedIn" 
-      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" 
-    />
-  </a>
-  
-<a href="mailto:arthnocodigo@gmail.com">
-  <img 
-    alt="Email" 
-    title="Me envie um email" 
-    src="https://img.shields.io/badge/arthnocodigo@gmail.com-FCC419?style=for-the-badge&logo=gmail&logoColor=black" 
-  />
-</a>
-
-
-  <a href="https://wa.me/5511991340152" target="_blank">
-  <img
-    alt="WhatsApp"
-    title="Me chame no WhatsApp"
-    src="https://img.shields.io/badge/(11)%2099134--0152-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white"
-  />
-</a>
-
-</p>
-
-
 ---
 
 ### 🤖 Linguagens e Tecnologias
@@ -128,5 +91,43 @@ Me chamo Arthur Henrique Garcia Orcy, tenho 24 anos e sou natural de São Paulo.
       src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arthhorcy&theme=chartreuse-dark&layout=compact&custom_title=Tecnologias&langs_count=9" 
   />
 
+<br clear="both"/>
+<br clear="both"/>
+
 </p>
- 
+
+ <p align="left">
+  <a href="https://www.youtube.com/@Arthsroutine?sub_confirmation=1">
+  <img
+    alt="Inscreva-se"
+    title="Inscreva-se no meu canal"
+    src="https://custom-icon-badges.demolab.com/badge/Inscreva--se-CE4630?style=for-the-badge&logo=video&logoColor=white&labelColor=CE4630"
+  />
+</a>
+
+<a href="https://www.linkedin.com/in/arthurorcy" target="_blank">
+    <img 
+      alt="LinkedIn" 
+      title="Conecte-se comigo no LinkedIn" 
+      src="https://custom-icon-badges.demolab.com/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&labelColor=005582" 
+    />
+  </a>
+  
+<a href="mailto:arthnocodigo@gmail.com">
+  <img 
+    alt="Email" 
+    title="Me envie um email" 
+    src="https://img.shields.io/badge/arthnocodigo@gmail.com-FCC419?style=for-the-badge&logo=gmail&logoColor=black" 
+  />
+</a>
+
+
+  <a href="https://wa.me/5511991340152" target="_blank">
+  <img
+    alt="WhatsApp"
+    title="Me chame no WhatsApp"
+    src="https://img.shields.io/badge/(11)%2099134--0152-4CAF50?style=for-the-badge&logo=whatsapp&logoColor=white"
+  />
+</a>
+
+</p>
